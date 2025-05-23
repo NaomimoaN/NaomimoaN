@@ -38,7 +38,7 @@ Built with HTML, CSS, JavaScript and Firebase.
 I worked as a **developer** and **project manager**, gaining hands-on experience with NoSQL databases, clean modular coding, debugging, and GitHub-based team collaboration.  
 👉 [View on GitHub](https://github.com/Francisco1116/Impacto)
 
-### 📚 BrightLearnCubie *(In Planning)*  
+### 📚 Cubie *(In Planning)*  
 An AI-powered LMS for primary school students, focused on smart practice generation, role-based dashboards, data visualization and inclusive UX.  
 I'm leading this project as both **Project Manager** and **Developer**.  
 👉 Tech stack selection in progress.
