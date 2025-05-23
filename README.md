@@ -7,6 +7,29 @@ Becoming a mom deepened my appreciation for society and fueled my passion to bui
 
 ---
 
+## 🛠️ Languages & Tools
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+
+---
+
+## 📫 Let's connect!
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/naomi-fujii-2152b8290/)
+- 💻 [GitHub Projects](https://github.com/NaomimoaN)
+
+---
+_“One project down. Many more to come.”_
+
+
 ## 💡 Projects
 
 ### 🏆 Impacto – Best Web Product Winner  
@@ -35,30 +58,3 @@ A job listing platform built while learning full-stack app development workflows
 Gained hands-on experience with routing, form handling, and CRUD operations.  
 👉 [View on GitHub](https://github.com/NaomimoaN/HelloWork-)
 
----
-
-## 🛠️ Languages & Tools
-
-
-### Languages and Tools
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
-
----
-
-## 📫 Let's connect!
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/naomi-fujii-2152b8290/)
-- 💻 [GitHub Projects](https://github.com/NaomimoaN)
-
----
-
-_“One project down. Many more to come.”_
