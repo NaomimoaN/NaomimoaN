@@ -48,15 +48,15 @@ _“One project down. Many more to come.”_
 - [K-house Magazine](https://mori-no-mizu.wooowebby.work/)
 - [King Gym](https://kinggym.wooowebby.work/)
 - [Event Company - White Tail](https://white-tail.wooowebby.work/)
-- [Kin no Neko](https://kinnoneko.wooowebby.work/)
+- [Pawn Shop - Kin no Neko](https://kinnoneko.wooowebby.work/)
 - [Private Investigator Office](https://tantei-azusa.wooowebby.work/)
-- [L step](https://insta.l.step.wooowebby.work/)
+- [Marketing Company - L step](https://insta.l.step.wooowebby.work/)
 
 ### Healthcare & Medical
 - [Society of Ambulatory and General Pediatrics of Japan (SAGPJ), 2023](https://sagpj2023.wooowebby.work/)
 - [Japan Lactation Consultant Association](https://jalc.wooowebby.work/)
 - [Sumita Kids Clinic](https://sumita-kids.jp/)
-- [The Japan BLM Association](https://babyledweaning.or.jp/)
+- [The Japan Baby-Led Weaning Association](https://babyledweaning.or.jp/)
 - [Kanagawa Pediatric Health Association](https://kanagawa-syounihokenkyoukai.jp/)
 - [Karugamo Fujisawa Clinic](https://karugamo-fujisawa.com/)
 - [Back Pain Clinic](https://seitai-yuinohashi.wooowebby.work/)
