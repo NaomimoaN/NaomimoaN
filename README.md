@@ -34,8 +34,35 @@ Becoming a mom deepened my appreciation for society and fueled my passion to bui
 ---
 _“One project down. Many more to come.”_
 
-## 🔔Word Press work
-[Benesse Steam festa](https://steamfesta.benesse.co.jp/)
+## 🔔 WordPress Work
+
+### Education & Government
+- [Benesse Steam Festa](https://steamfesta.benesse.co.jp/) - Educational event platform
+- [Be Studio](https://benesse-bestudio.com/about/material/) - English learning materials
+- [Japan Innovative Schools Network](https://www.mext.go.jp/component/a_menu/other/detail/__icsFiles/afieldfile/2018/09/11/1407998_11.pdf) - OECD-supported initiative (archived PDF)
+- [Japan Academic Association, 2022](https://www.scj.go.jp/) - Design and architecture development
+
+### Corporate Sites
+- [Indonesia Recruitment Agency](https://kisera.wooowebby.work/)
+- [Drone School Spice Sky](https://skyspice.wooowebby.work/)
+- [K-house Magazine](https://mori-no-mizu.wooowebby.work/)
+- [King Gym](https://kinggym.wooowebby.work/)
+- [Event Company - White Tail](https://white-tail.wooowebby.work/)
+- [Kin no Neko](https://kinnoneko.wooowebby.work/)
+- [Private Investigator Office](https://tantei-azusa.wooowebby.work/)
+- [L step](https://insta.l.step.wooowebby.work/)
+
+### Healthcare & Medical
+- [Society of Ambulatory and General Pediatrics of Japan (SAGPJ), 2023](https://sagpj2023.wooowebby.work/)
+- [Japan Lactation Consultant Association](https://jalc.wooowebby.work/)
+- [Sumita Kids Clinic](https://sumita-kids.jp/)
+- [The Japan BLM Association](https://babyledweaning.or.jp/)
+- [Kanagawa Pediatric Health Association](https://kanagawa-syounihokenkyoukai.jp/)
+- [Karugamo Fujisawa Clinic](https://karugamo-fujisawa.com/)
+- [Back Pain Clinic](https://seitai-yuinohashi.wooowebby.work/)
+- [Morimoto Ophthalmology and Dermatology Clinic](https://maebashimorimotoeyeskin.com/)
+- [Kawamura Hospital](https://kawamuracl.wooowebby.work/)
+
 
 ## 💡 Projects
 
