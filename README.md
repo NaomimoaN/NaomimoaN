@@ -34,6 +34,8 @@ Becoming a mom deepened my appreciation for society and fueled my passion to bui
 ---
 _“One project down. Many more to come.”_
 
+## 🔔Word Press work
+[Benesse Steam festa](https://steamfesta.benesse.co.jp/)
 
 ## 💡 Projects
 
