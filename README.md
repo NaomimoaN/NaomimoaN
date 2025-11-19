@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naomi!
 
-I'm a Web & Mobile App Development student at Langara College, Vancouver 🇨🇦  
+I'm a Web & Mobile App Developer & UX designer in Vancouver 🇨🇦  
 I started my career as a UX analyst, fascinated by how design influences human behavior. That curiosity led me into the world of design, where the more I learned, the more I became interested in the functionality behind the scenes. After running a business in NYC helping students find housing and schools, and working my way up to design director, I’m now diving into full-stack development—bringing my passion for user experience and the tech that makes it possible into coding.
 
 Becoming a mom deepened my appreciation for society and fueled my passion to build a better world—especially for children and seniors. This drives my strong interest in EdTech and tech for social good, where I can combine my skills with my desire to give back and support future generations.
