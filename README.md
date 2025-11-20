@@ -41,6 +41,9 @@ _“One project down. Many more to come.”_
 ### Education & Government
 - [Benesse Steam Festa](https://steamfesta.benesse.co.jp/) - Educational event platform
 - [Be Studio by Benesse](https://benesse-bestudio.com/about/material/) - English learning materials
+- [Benesse's action on sustainability from Benesse well-being](https://www.benesse.co.jp/brand/)
+- [GPS academic exam by Benesse i-career](https://www.benesse-i-career.co.jp/gps_academic/exam/)
+- [Public Interest Foundation for Children](https://benesse-kodomokikin.or.jp/)
 - [Japan Innovative Schools Network](https://www.mext.go.jp/component/a_menu/other/detail/__icsFiles/afieldfile/2018/09/11/1407998_11.pdf) - OECD-supported initiative (archived PDF)
 - [Japan Academic Association, 2022](https://www.scj.go.jp/) - Design and architecture development
 
