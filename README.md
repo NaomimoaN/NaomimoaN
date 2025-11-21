@@ -38,7 +38,7 @@ _“One project down. Many more to come.”_
 
 ## 🔔 WordPress Work
 
-### Education & Government
+### Education & Ministry of Education
 - [Benesse Steam Festa](https://steamfesta.benesse.co.jp/) - Educational event platform
 - [Be Studio by Benesse](https://benesse-bestudio.com/about/material/) - English learning materials
 - [Benesse's action on sustainability from Benesse well-being](https://www.benesse.co.jp/brand/)
