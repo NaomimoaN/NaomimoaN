@@ -55,7 +55,6 @@ _“One project down. Many more to come.”_
 - [Event Company - White Tail](https://white-tail.wooowebby.work/)
 - [Pawn Shop - Kin no Neko](https://kinnoneko.wooowebby.work/)
 - [Private Investigator Office](https://tantei-azusa.wooowebby.work/)
-- [Marketing Company - L step](https://insta.l.step.wooowebby.work/)
 
 ### Healthcare & Medical
 - [Society of Ambulatory and General Pediatrics of Japan (SAGPJ), 2023](https://sagpj2023.wooowebby.work/)
