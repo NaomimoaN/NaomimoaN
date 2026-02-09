@@ -76,10 +76,11 @@ Built with HTML, CSS, JavaScript and Firebase.
 I worked as a **developer** and **project manager**, gaining hands-on experience with NoSQL databases, clean modular coding, debugging, and GitHub-based team collaboration.  
 👉 [View on GitHub](https://github.com/NaomimoaN/impacto_project2)
 
-### 📚 Cubie *(In Planning)*  
+### 📚 Cubie
 An AI-powered LMS for primary school students, focused on smart practice generation, role-based dashboards, data visualization and inclusive UX.  
 I'm leading this project as both **Project Manager** and **Developer**.  
-👉 Tech stack selection in progress.
+👉 [View on GitHub](https://github.com/NaomimoaN/cubie_project3)
+👉 [Landing Page](https://cubie-learning.wmdd.ca/)
 
 ### 📖 Responsive Magazine
 A fully responsive magazine-style website built with only HTML and CSS during my first course at Langara.
