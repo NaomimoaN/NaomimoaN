@@ -74,7 +74,7 @@ _“One project down. Many more to come.”_
 A full-stack social impact app that helps people take action on causes they care about—from organizing events to signing petitions.  
 Built with HTML, CSS, JavaScript and Firebase.  
 I worked as a **developer** and **project manager**, gaining hands-on experience with NoSQL databases, clean modular coding, debugging, and GitHub-based team collaboration.  
-👉 [View on GitHub](https://github.com/Francisco1116/Impacto)
+👉 [View on GitHub](https://github.com/NaomimoaN/impacto_project2)
 
 ### 📚 Cubie *(In Planning)*  
 An AI-powered LMS for primary school students, focused on smart practice generation, role-based dashboards, data visualization and inclusive UX.  
