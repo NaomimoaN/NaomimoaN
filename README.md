@@ -36,7 +36,7 @@ Becoming a mom deepened my appreciation for society and fueled my passion to bui
 ---
 _“One project down. Many more to come.”_
 
-## 🔔 WordPress Work
+## 👉 Web & WordPress Development + Digital Design
 
 ### Education & Ministry of Education
 - [Benesse Steam Festa](https://steamfesta.benesse.co.jp/) - Educational event platform
@@ -70,17 +70,17 @@ _“One project down. Many more to come.”_
 
 ## 💡 Projects
 
+### 📚 Cubie – Best App Product Winner  
+An AI-powered LMS for primary school students, focused on smart practice generation, role-based dashboards, data visualization and inclusive UX.  
+I'm leading this project as both **Project Manager** and **Developer**.  
+👉 [View on GitHub](https://github.com/NaomimoaN/cubie_project3)
+👉 [Landing Page](https://cubie-learning.wmdd.ca/)
+
 ### 🏆 Impacto – Best Web Product Winner  
 A full-stack social impact app that helps people take action on causes they care about—from organizing events to signing petitions.  
 Built with HTML, CSS, JavaScript and Firebase.  
 I worked as a **developer** and **project manager**, gaining hands-on experience with NoSQL databases, clean modular coding, debugging, and GitHub-based team collaboration.  
 👉 [View on GitHub](https://github.com/NaomimoaN/impacto_project2)
-
-### 📚 Cubie
-An AI-powered LMS for primary school students, focused on smart practice generation, role-based dashboards, data visualization and inclusive UX.  
-I'm leading this project as both **Project Manager** and **Developer**.  
-👉 [View on GitHub](https://github.com/NaomimoaN/cubie_project3)
-👉 [Landing Page](https://cubie-learning.wmdd.ca/)
 
 ### 📖 Responsive Magazine
 A fully responsive magazine-style website built with only HTML and CSS during my first course at Langara.
