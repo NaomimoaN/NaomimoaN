@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Naomi!
 
-I'm a Web & Mobile App Developer & UX designer in Vancouver 🇨🇦  
-I started my career as a UX analyst, fascinated by how design influences human behavior. That curiosity led me into the world of design, where the more I learned, the more I became interested in the functionality behind the scenes. After running a business in NYC helping students find housing and schools, and working my way up to design director, I’m now diving into full-stack development—bringing my passion for user experience and the tech that makes it possible into coding.
+I'm a Web & Mobile App Developer & UX Designer in Vancouver 🇨🇦
 
-Becoming a mom deepened my appreciation for society and fueled my passion to build a better world—especially for children and seniors. This drives my strong interest in EdTech and tech for social good, where I can combine my skills with my desire to give back and support future generations.
+I started my career as a UX analyst, fascinated by how design influences human behavior. That curiosity led me deeper into the world of design, where I became passionate about creating meaningful user experiences. After running a business in NYC helping students find housing and schools, and working my way up to design director, I realized I needed to understand the full technical landscape to bring my design vision to life. So I dove into full-stack development—not to become an engineer, but to become a more capable designer. Technical literacy is my superpower: it lets me design with precision, understand constraints, and collaborate seamlessly with developers to realize the best possible user experiences.
+
+Becoming a mom deepened my appreciation for society and fueled my passion to build a better world—especially for children and seniors. This drives my strong interest in EdTech, architectural design, and tech for social good, where I can combine design thinking with technical implementation to create products that truly matter.
+
+Today, I'm eager to return to **design-focused leadership roles**—where I can guide product vision, lead design systems, and champion user-centered design across teams. My development background makes me a designer who can speak engineering's language, closing the gap between design intent and technical reality.
 
 ---
 
