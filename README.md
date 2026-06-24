@@ -68,7 +68,7 @@ _“One project down. Many more to come.”_
 - [Kawamura Hospital](https://kawamuracl.wooowebby.work/)
 
 
-## 💡 Projects
+## 💡 Web & Mobile App Development Projects
 
 ### 📚 Cubie – Best App Product Winner  
 An AI-powered LMS for primary school students, focused on smart practice generation, role-based dashboards, data visualization and inclusive UX.  
