@@ -74,16 +74,16 @@ _“One project down. Many more to come.”_
 ## 💡 Web & Mobile App Development Projects
 
 ### ♿ Guardian – Best App Product Winner
-Accessible iOS App for Visually Impaired Users
 An iOS accessibility app designed to empower visually impaired users through voice-guided navigation and intuitive haptic feedback. Built as my Langara College Capstone project, featuring inclusive UX design principles, accessibility-first architecture, and comprehensive user research. I led the design and developed core features in Swift, prioritizing blind and low-vision user experiences. I worked as both **Project Manager** and **Developer**. 
 👉 [View on GitHub](https://github.com/NaomimoaN/guardian_repo)
-👉 [Landing Page](https://cubie-learning.wmdd.ca/)
+👉 [Landing Page](https://guardian-mu-three.vercel.app/)
+ 
 
 ### 📚 Cubie – Best App Product Winner  
 An AI-powered LMS for primary school students, focused on smart practice generation, role-based dashboards, data visualization and inclusive UX.  
 I'm leading this project as both **Project Manager** and **Developer**.  
 👉 [View on GitHub](https://github.com/oksimveiti/Guardian/tree/main-test)
-👉 [Landing Page](https://guardian-mu-three.vercel.app/)
+👉 [Landing Page](https://cubie-learning.wmdd.ca/)
 
 ### 🏆 Impacto – Best Web Product Winner  
 A full-stack social impact app that helps people take action on causes they care about—from organizing events to signing petitions.  
