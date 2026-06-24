@@ -79,7 +79,7 @@ An iOS accessibility app designed to empower visually impaired users through voi
 👉 [Landing Page](https://guardian-mu-three.vercel.app/)
  
 
-### 📚 Cubie – Best App Product Winner  
+### 📚 Cubie – Capstone Project - Best App Product Winner  
 An AI-powered LMS for primary school students, focused on smart practice generation, role-based dashboards, data visualization and inclusive UX.  
 I'm leading this project as both **Project Manager** and **Developer**.  
 👉 [View on GitHub](https://github.com/oksimveiti/Guardian/tree/main-test)
@@ -94,7 +94,7 @@ I worked as a **developer** and **project manager**, gaining hands-on experience
 ### 📖 Responsive Magazine
 A fully responsive magazine-style website built with only HTML, CSS, and JS during my first course at Langara.
 Focused on layout, typography, and mobile-friendly design.
-👉 [View on GitHub](https://naomimoan.github.io/PARENTSCOPE/)
+👉 [View Live](https://naomimoan.github.io/PARENTSCOPE/)
 
 ### 🐣 PetitParler *(In Progress)*  
 A child-friendly French learning app inspired by inclusive EdTech.  
