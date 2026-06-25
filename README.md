@@ -6,7 +6,7 @@ I started my career as a UX analyst, fascinated by how design influences human b
 
 Becoming a mom deepened my appreciation for society and fueled my passion to build a better world—especially for children and seniors. This drives my strong interest in EdTech, architectural design, and tech for social good, where I can combine design thinking with technical implementation to create products that truly matter.
 
-Today, I'm eager to return to **design-focused leadership roles**—where I can guide product vision, lead design systems, and champion user-centered design across teams. My development background makes me a designer who can speak engineering's language, closing the gap between design intent and technical reality.
+Today, I'm eager to return to **design-focused roles**—where I can guide product vision, lead design systems, and champion user-centered design across teams. My development background makes me a designer who can speak engineering's language, closing the gap between design intent and technical reality.
 
 ---
 
