@@ -68,7 +68,7 @@ _“One project down. Many more to come.”_
 - [Karugamo Fujisawa Clinic](https://karugamo-fujisawa.com/)
 - [Back Pain Clinic](https://seitai-yuinohashi.wooowebby.work/)
 - [Morimoto Ophthalmology and Dermatology Clinic](https://maebashimorimotoeyeskin.com/)
-- [Kawamura Hospital](https://kawamuracl.wooowebby.work/)
+- [Kawamura Hospital](https://kawamuracl.com/)
 
 
 ## 💡 Web & Mobile App Development Projects
