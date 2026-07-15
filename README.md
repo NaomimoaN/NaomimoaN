@@ -47,9 +47,9 @@ Today, I'm eager to return to **design-focused roles**—where I can guide produ
 - 🌐 [LinkedIn](https://www.linkedin.com/in/naomi-fujii-2152b8290/)
 - 🎨 [Behance](https://www.behance.net/naomifujii)
 - 💻 [GitHub Projects](https://github.com/NaomimoaN)
-Languages: Japanese (native) · English (professional working proficiency — CELPIP CLB 9, Speaking 10)
-Open to Web / Visual / Marketing Designer roles in Vancouver.
-📩 aominarty@gmail.com
+- Languages: Japanese (native) · English (professional working proficiency — CELPIP CLB 9, Speaking 10)
+- Open to Web / Visual / Marketing Designer roles in Vancouver.
+- 📩 aominarty@gmail.com
 
 ---
 _“My clients stay — 11 years and counting.”_
