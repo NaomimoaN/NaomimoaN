@@ -46,10 +46,11 @@ Becoming a mom deepened my passion for building a better world — especially fo
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/naomi-fujii-2152b8290/)
 - 🎨 [Behance](https://www.behance.net/naomifujii)
-- 💻 [GitHub Projects](https://github.com/NaomimoaN)
-- [Languages: Japanese (native) · English (professional working proficiency — CELPIP CLB 9, Speaking 10)]
-- [Open to Web / Visual / Marketing Designer roles in Vancouver.]
-- 📩 [aominarty@gmail.com](aominarty@gmail.com)
+- 📩 [aominarty@gmail.com](mailto:aominarty@gmail.com)
+
+🗣️ **Languages:** Japanese (native) · English (professional working proficiency — CELPIP CLB 9, Speaking 10)
+
+💼 **Open to:** Web / Visual / Marketing Designer roles in Vancouver
 
 ---
 _“My clients stay — 11 years and counting.”_
