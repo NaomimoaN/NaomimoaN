@@ -34,10 +34,11 @@ Today, I'm eager to return to **design-focused roles**—where I can guide produ
 ## 📫 Let's connect!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/naomi-fujii-2152b8290/)
+- 🎨 [Behance](https://www.behance.net/naomifujii)
 - 💻 [GitHub Projects](https://github.com/NaomimoaN)
 
 ---
-_“One project down. Many more to come.”_
+_“My clients stay — 11 years and counting.”_
 
 ## 👉 Web & WordPress Development + Digital Design
 
