@@ -49,7 +49,7 @@ Today, I'm eager to return to **design-focused roles**—where I can guide produ
 - 💻 [GitHub Projects](https://github.com/NaomimoaN)
 - [Languages: Japanese (native) · English (professional working proficiency — CELPIP CLB 9, Speaking 10)]
 - [Open to Web / Visual / Marketing Designer roles in Vancouver.]
-- 📩 [aominarty@gmail.com](mail:aominarty@gmail.com)
+- 📩 [aominarty@gmail.com](aominarty@gmail.com)
 
 ---
 _“My clients stay — 11 years and counting.”_
