@@ -2,11 +2,11 @@
 
 Brand & Visual Designer | WordPress Specialist (35+ client sites) | Designer who codes (MERN)
 
-I started my career as a UX analyst, fascinated by how design influences human behavior. That curiosity led me deeper into the world of design, where I became passionate about creating meaningful user experiences. After running a business in NYC helping students find housing and schools, and working my way up to design director, I realized I needed to understand the full technical landscape to bring my design vision to life. So I dove into full-stack development—not to become an engineer, but to become a more capable designer. Technical literacy is my superpower: it lets me design with precision, understand constraints, and collaborate seamlessly with developers to realize the best possible user experiences.
+I started my career as a UX analyst, fascinated by how design influences human behavior. That curiosity took me from running a business in NYC — where I worked my way up to design director — to a decade of independent client work: designing and building **35+ WordPress sites end-to-end** as a sole designer, from brand identity to live site. My clients include the Benesse group (one of Japan's largest education companies), healthcare clinics, and national nonprofits — and they stay: my two largest accounts have been with me for 11 and 6 years.
 
-Becoming a mom deepened my appreciation for society and fueled my passion to build a better world—especially for children and seniors. This drives my strong interest in EdTech, architectural design, and tech for social good, where I can combine design thinking with technical implementation to create products that truly matter.
+Along the way, I dove into full-stack development at Langara College — not to become an engineer, but to become a more capable designer. Working as project manager and developer, my teams won three Best Product awards, including Guardian, an accessibility-first iOS app for visually impaired users. That experience is why I'm a designer who can speak engineering's language: I design with precision, understand technical constraints, and know what it takes to actually ship.
 
-Today, I'm eager to return to **design-focused roles**—where I can guide product vision, lead design systems, and champion user-centered design across teams. My development background makes me a designer who can speak engineering's language, closing the gap between design intent and technical reality.
+Becoming a mom deepened my passion for building a better world — especially for children and seniors — which drives my strong interest in EdTech, healthcare, and tech for social good. Today I'm seeking Web / Visual / Marketing Designer roles in Vancouver, where I can bring both a brand designer's eye and a builder's hands to the same table.
 
 ---
 
