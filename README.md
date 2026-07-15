@@ -82,7 +82,7 @@ An iOS accessibility app designed to empower visually impaired users through voi
 ### 📚 Cubie – Capstone Project - Best App Product Winner  
 An AI-powered LMS for primary school students, focused on smart practice generation, role-based dashboards, data visualization and inclusive UX.  
 I led this project as both **Project Manager** and **Developer**.  
-👉 [View on GitHub](https://github.com/oksimveiti/Guardian/tree/main-test)
+👉 [View on GitHub](https://github.com/NaomimoaN/cubie_project3)
 👉 [Landing Page](https://cubie-learning.wmdd.ca/)
 
 ### 🏆 Impacto – Best Web Product Winner  
