@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naomi in Vancouver 🇨🇦
 
-Web & Brand Designer | WordPress Specialist (15+ client sites) | Designer who codes (MERN) 
+Brand & Visual Designer | WordPress Specialist (35+ client sites) | Designer who codes (MERN)
 
 I started my career as a UX analyst, fascinated by how design influences human behavior. That curiosity led me deeper into the world of design, where I became passionate about creating meaningful user experiences. After running a business in NYC helping students find housing and schools, and working my way up to design director, I realized I needed to understand the full technical landscape to bring my design vision to life. So I dove into full-stack development—not to become an engineer, but to become a more capable designer. Technical literacy is my superpower: it lets me design with precision, understand constraints, and collaborate seamlessly with developers to realize the best possible user experiences.
 
